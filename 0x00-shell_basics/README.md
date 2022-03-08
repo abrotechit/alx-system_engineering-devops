@@ -9,3 +9,4 @@ A shell script that prints the absolute path name of the current working directo
 7-Delete the file betty.
 8-Delete the directory my_first_directory that is in the /tmp directory.
 9-Write a script that changes the working directory to the previous one.
+10-Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
