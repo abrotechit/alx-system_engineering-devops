@@ -6,3 +6,4 @@ A shell script that prints the absolute path name of the current working directo
 4-Display current directory contents, including hidden files (starting with.
 5-Display current directory contents.
 6-Move the file betty from /tmp/ to /tmp/my_first_directory
+7-Delete the file betty.
