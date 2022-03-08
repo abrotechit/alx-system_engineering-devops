@@ -7,3 +7,4 @@ A shell script that prints the absolute path name of the current working directo
 5-Display current directory contents.
 6-Move the file betty from /tmp/ to /tmp/my_first_directory
 7-Delete the file betty.
+8-Delete the directory my_first_directory that is in the /tmp directory.
